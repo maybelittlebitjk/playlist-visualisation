@@ -14,6 +14,7 @@ body {
   font-family: 'Red Hat Mono', sans-serif;
   background-color: var(--bg);
   overflow-x: hidden;
+  color: white;
 }
 
 /* Login page */
@@ -99,3 +100,7 @@ body {
 .playlist-grid .playlist-item.active .playlist-item-title {
   opacity: 1;
 }
+
+/* .active {
+  font-size: 5rem;
+} */
